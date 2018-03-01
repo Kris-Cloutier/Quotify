@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quotify | Making quotes easier!</title>
+</head>
+<body>
+	<h1>Quotify</h1>
+	{% for customer in customers %}
+		<p>{{ customer.name }}</p>
+		<p>{{ customer.mobile_number }}</p>
+		<p>{{ customer.home_number }}</p>
+		<p>{{ customer.work_number }}</p>
+		<p>{{ customer.email }}</p>
+		<p>{{ customer.company }}</p>
+		<p>{{ customer.job_title }}</p>
+		<p>{{ customer.address }}</p>
+		<p>{{ customer.notes }}</p>
+	{% endfor %}
+</body>
+</html>

@@ -1,0 +1,309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"choice_text\tstatement"
+			],
+			[
+				"question",
+				"question_text\tstatement"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"week",
+				"weekly_score\tstatement"
+			],
+			[
+				"weekly",
+				"weekly_score\tparam"
+			],
+			[
+				"btn-s",
+				"btn-outline-secondary"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"mod",
+				"modal-dialog"
+			],
+			[
+				"add",
+				"addCustomerModal"
+			],
+			[
+				"nv",
+				"navbar"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"y",
+				"Y"
+			],
+			[
+				"student",
+				"student_name\tstatement"
+			],
+			[
+				"save",
+				"save_file\tfunction"
+			],
+			[
+				"read",
+				"read_file\tfunction"
+			],
+			[
+				"rea",
+				"readlines\tfunction"
+			],
+			[
+				"studen",
+				"student_id"
+			],
+			[
+				"stud",
+				"students_titlecase"
+			],
+			[
+				"stu",
+				"students_titlecase"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 134.0,
+		"history":
+		[
+			"def get_students_titlecase():",
+			"students = []",
+			"e",
+			"quit()",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/quotify/css/dashboard.css",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/quotify/products.html",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/quotify/customers.html",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/QuotifyApp/QuotifyApp/settings.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/QuotifyApp/polls/admin.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/QuotifyApp/polls/models.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/QuotifyApp/QuotifyApp/urls.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/QuotifyApp/polls/urls.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/QuotifyApp/polls/views.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/quotify/index.html",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/Coldell/employee/php/scripts/addclass/addClass.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/bonus-calculator/payout_chart.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Git/bonus-calculator/csa_bonus_calculator.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Python/Quotify/quotify.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Python/PyStudentManager/studentManager.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Python/Dice Rolling Game/dice_game.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Python/Test/test.py",
+		"/C/Users/krist/AppData/Local/Temp/Temp1_winmarkltd-BootstrapFormHelpers-2.3.0-17-gd4201db.zip/winmarkltd-BootstrapFormHelpers-d4201db/README.md",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/quotify/test.html",
+		"/C/Users/krist/Downloads/python-getting-started/5-python-getting-started-m5-exercise-files/webapp/templates/index.html",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Websites/quotify/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/index.html",
+		"/C/Users/krist/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/README.md",
+		"/C/Users/krist/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/layout/grid.md",
+		"/C/Users/krist/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/docs/4.0/examples/dashboard/index.html",
+		"/C/Users/krist/Downloads/python-getting-started/4-python-getting-started-m4-exercise-files/student.py",
+		"/C/Users/krist/Downloads/python-getting-started/4-python-getting-started-m4-exercise-files/hs_student.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Python/Guess the Number/number_game.py",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/login/loginregister-master/activate.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/login/loginregister-master/includes/config.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Coldell/employee/add-employee.php",
+		"/C/Users/krist/Downloads/error_log",
+		"/C/Users/krist/Downloads/error_log-old",
+		"/C/Users/krist/Downloads/error_log (1)",
+		"/C/Users/krist/AppData/Local/Temp/Temp1_login-system.zip/index.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/Coldell/employee/php/scripts/chart.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/public_html/login.txt",
+		"/C/Users/krist/Downloads/pick.php",
+		"/C/Users/krist/Downloads/pick (1).php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/public_html/Legacy/PHP - Copy/config/config.php",
+		"/C/Users/krist/Downloads/send.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/public_html/PHP/config/config.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/login/loginregister-master/README.md",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/xcart/index.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/xcart/cart.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/xcart/skins/crisp_white/customer/css/ajax.css",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/public_html/css/main.css",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/simple-php-shopping-cart/tblproduct.sql",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/simple-php-shopping-cart/index.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/simple-php-shopping-cart/dbcontroller.php",
+		"/C/Users/krist/OneDrive/Documents/Graphics and Designs/Coding/public_html/academy.html",
+		"/C/Users/krist/Downloads/simple-php-shopping-cart.zip",
+		"/C/Users/krist/AppData/Local/Temp/Temp1_simple-php-shopping-cart.zip/simple-php-shopping-cart/tblproduct.sql"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
